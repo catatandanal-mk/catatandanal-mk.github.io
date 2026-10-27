@@ -1,0 +1,47 @@
+PANDUAN SITUS "CATATAN DANAL" (VERSI HP)
+=========================================
+
+ISI FOLDER INI (semua datar, tanpa folder)
+- index.html, blog.html, portfolio.html, about.html, post.html, 404.html : halaman (jangan diubah)
+- app.js, style.css, marked.min.js, purify.min.js, favicon.svg : mesin & tampilan (jangan diubah)
+- site.json            : IDENTITAS, KONTAK, DAN DAFTAR PORTOFOLIO (ini yang Anda edit)
+- daftar-artikel.txt   : daftar artikel yang diterbitkan
+- artikel-*.txt        : isi artikel
+- template-artikel.txt : contoh kerangka artikel baru
+
+A. MENAYANGKAN SITUS DI HP (gratis, domain NAMAAKUN.github.io)
+1. Ekstrak ZIP dulu.
+   - Android: buka aplikasi "Files by Google" > ketuk file ZIP > Ekstrak.
+   - iPhone: buka aplikasi "Berkas/Files" > ketuk file ZIP (otomatis jadi folder).
+2. Buka Chrome > ketuk titik tiga > centang "Situs desktop". Buka github.com, daftar (gratis).
+   Pilih nama akun yang enak dibaca, misalnya danal-menulis. Nama ini menjadi alamat situs.
+3. Ketuk "+" > New repository.
+   Nama repositori HARUS persis: NAMAAKUN.github.io  (contoh: danal-menulis.github.io)
+   Pilih Public > Create repository.
+4. Ketuk "uploading an existing file" > "choose your files" > pilih SEMUA berkas hasil ekstrak
+   (ketuk lama satu berkas, lalu pilih semua). Tunggu selesai > "Commit changes".
+5. Settings > Pages > Build and deployment > Source: "Deploy from a branch",
+   Branch: main, folder: / (root) > Save.
+6. Tunggu 1-3 menit. Buka https://NAMAAKUN.github.io
+
+B. ISI IDENTITAS
+Buka site.json di GitHub > ikon pensil > ubah kontak (email, whatsapp, instagram, youtube),
+foto, dan daftar portofolio > Commit changes. Kontak yang dikosongkan tidak akan tampil.
+Hati-hati: pertahankan tanda kutip " " dan koma , di tempatnya.
+
+C. MENULIS ARTIKEL BARU
+Dua langkah:
+1) Add file > Create new file > nama: artikel-judul-saya.txt > isi dari template-artikel.txt > Commit.
+2) Buka daftar-artikel.txt > pensil > tambah satu baris: artikel-judul-saya > Commit.
+Muat ulang situs setelah 1-2 menit.
+
+D. DOMAIN
+- Gratis & stabil: NAMAAKUN.github.io
+- Alternatif gratis: Netlify (namasitus.netlify.app), unggah ZIP di app.netlify.com/drop.
+- Domain sendiri (misalnya danal.my.id) berbayar tahunan; bisa ditambahkan nanti di
+  Settings > Pages > Custom domain. Domain gratis .tk/.ml sudah tidak andal.
+
+E. JIKA HALAMAN KOSONG / ERROR
+- Pastikan semua berkas terunggah (terutama daftar-artikel.txt dan site.json).
+- Jangan membuka index.html langsung dari HP; harus lewat alamat situs.
+- Periksa site.json: salah satu tanda kutip/koma hilang akan membuat situs tidak bisa dimuat.

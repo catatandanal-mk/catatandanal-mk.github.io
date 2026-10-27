@@ -1,0 +1,19 @@
+---
+judul: Judul Artikel Anda
+tanggal: 2026-11-01
+kategori: Pembinaan
+tag: tag1, tag2
+ringkasan: Satu atau dua kalimat yang tampil di daftar artikel.
+draft: tidak
+---
+
+Paragraf pembuka.
+
+## Subjudul
+
+Isi artikel. Gunakan **tebal**, *miring*, dan daftar:
+
+- poin satu
+- poin dua
+
+> Kutipan ditulis dengan tanda lebih besar.

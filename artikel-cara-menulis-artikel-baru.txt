@@ -1,0 +1,32 @@
+---
+judul: Cara Menulis dan Menerbitkan Artikel Baru dari HP
+tanggal: 2026-10-26
+kategori: Catatan
+tag: panduan, blog
+ringkasan: Dua langkah sederhana untuk menambah artikel baru ke blog ini langsung dari HP.
+---
+
+Menambah artikel hanya butuh **dua langkah**, dan semuanya bisa dilakukan dari HP lewat github.com.
+
+## Langkah 1: Buat berkas artikel
+
+1. Buka repositori Anda di github.com (Chrome, aktifkan *Situs desktop* bila perlu).
+2. Ketuk **Add file → Create new file**.
+3. Pada kolom nama, ketik misalnya `artikel-judul-saya.txt`. Pakai huruf kecil, tanda hubung, tanpa spasi, diawali `artikel-`.
+4. Salin isi dari `template-artikel.txt`, tempel, lalu isi judul, tanggal, dan kategori.
+5. Tulis artikel di bawah garis `---` kedua. Gunakan `## Subjudul`, `**tebal**`, dan `- poin` untuk format.
+6. Ketuk **Commit changes**.
+
+## Langkah 2: Daftarkan di daftar-artikel.txt
+
+1. Buka berkas `daftar-artikel.txt`, ketuk ikon pensil.
+2. Tambahkan satu baris baru: `artikel-judul-saya` (tanpa `.txt`).
+3. **Commit changes**.
+
+Tunggu 1–2 menit, lalu muat ulang situsnya. Artikel baru muncul.
+
+## Tips
+
+- Tulis `draft: ya` di bagian atas artikel untuk menyimpannya tanpa menerbitkan.
+- Untuk foto, unggah gambarnya lewat **Add file → Upload files**, lalu tulis `![deskripsi](nama-foto.jpg)` di artikel.
+- Artikel contoh ini boleh dihapus: hapus barisnya di `daftar-artikel.txt`.
