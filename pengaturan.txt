@@ -1,0 +1,105 @@
+{
+  "title": "Catatan Danal",
+  "tagline": "Menulis untuk bertumbuh: pendidikan, karakter, dan nilai-nilai Minangkabau.",
+  "description": "Blog dan portofolio Radinal Rudianto, S.Pd — pembina asrama SMA Negeri 3 Painan, khatib, dan penulis buku pengembangan diri.",
+  "url": "https://USERNAME.github.io",
+  "author": {
+    "name": "Radinal Rudianto, S.Pd",
+    "short": "Danal",
+    "role": "Koordinator Asrama · SMA Negeri 3 Painan",
+    "location": "Pesisir Selatan, Sumatera Barat",
+    "photo": "",
+    "bio": [
+      "Saya Radinal Rudianto, biasa disapa Danal. Sehari-hari saya mengoordinasikan pembinaan di asrama SMA Negeri 3 Painan, sekolah menengah atas negeri berasrama di Pesisir Selatan, Sumatera Barat.",
+      "Saya menyusun program asrama, dokumen kelembagaan, kerangka pengembangan siswa, dan inisiatif pembinaan karakter. Saya juga menjadi khatib dan sedang menulis buku-buku pengembangan diri dan motivasi.",
+      "Identitas Minangkabau memberi warna pada cara saya berpikir, merancang program, dan menulis. Blog ini adalah tempat saya mencatat apa yang saya pelajari, supaya bisa dibaca, dikritik, dan dipakai orang lain."
+    ],
+    "focus": [
+      { "title": "Pembinaan Asrama", "text": "Program, SOP, dan sistem pembinaan siswa berasrama." },
+      { "title": "Pembinaan Karakter", "text": "Coaching karakter dan spiritual untuk siswa SMA." },
+      { "title": "Menulis Buku", "text": "Pengembangan diri dan motivasi, dalam bahasa yang membumi." },
+      { "title": "Dakwah & Khutbah", "text": "Menyampaikan nilai-nilai Islam yang dekat dengan keseharian." },
+      { "title": "Pelatihan & Pembelajaran", "text": "Modul ajar, pelatihan guru, dan pelatihan kepemimpinan." }
+    ]
+  },
+  "nav": [
+    { "label": "Beranda", "href": "./", "page": "home" },
+    { "label": "Artikel", "href": "blog.html", "page": "blog" },
+    { "label": "Portofolio", "href": "portfolio.html", "page": "portfolio" },
+    { "label": "Tentang", "href": "about.html", "page": "about" }
+  ],
+  "social": {
+    "whatsapp": "",
+    "instagram": "",
+    "youtube": "",
+    "facebook": "",
+    "tiktok": "",
+    "email": "",
+    "github": ""
+  },
+  "portfolio": [
+    {
+      "title": "MECHING — Muslim Excellent Coaching",
+      "category": "Program",
+      "description": "Program pembinaan karakter dan coaching spiritual 32 sesi untuk sekitar 350 siswa SMA Negeri 3 Painan, bersama LPPM Sumatera Barat Cabang Pesisir Selatan.",
+      "status": "",
+      "link": ""
+    },
+    {
+      "title": "Kasih Senyum Bahagia",
+      "category": "Buku",
+      "description": "Buku motivasi tentang kebahagiaan yang tumbuh dari senyuman, disusun dalam 12 bab.",
+      "status": "Dalam penyusunan",
+      "link": ""
+    },
+    {
+      "title": "The Power of Repetisi",
+      "category": "Buku",
+      "description": "Buku pengembangan diri yang memadukan psikologi, neurosains, sains perilaku, dan hikmah Islam dalam 20 bab.",
+      "status": "Dalam penyusunan",
+      "link": ""
+    },
+    {
+      "title": "Cetak Biru Pembinaan Asrama",
+      "category": "Dokumen",
+      "description": "Dokumen induk pengelolaan asrama: filosofi, sistem pembinaan, kurikulum, program unggulan, manajemen organisasi, dan 25 SOP.",
+      "status": "",
+      "link": ""
+    },
+    {
+      "title": "Tim Siaga Bencana (SPAB)",
+      "category": "Dokumen",
+      "description": "Struktur, tugas pokok dan fungsi, serta SOP Tim Siaga Bencana sekolah dalam kerangka Satuan Pendidikan Aman Bencana.",
+      "status": "",
+      "link": ""
+    },
+    {
+      "title": "Modul Ajar Keminangkabauan",
+      "category": "Pembelajaran",
+      "description": "Perangkat dan modul ajar Muatan Lokal Keminangkabauan kelas XI (Tau di Nan Ampek, Ragam Kuliner Minangkabau) dengan pendekatan deep learning.",
+      "status": "",
+      "link": ""
+    },
+    {
+      "title": "Pelatihan Dasar Psikososial",
+      "category": "Pelatihan",
+      "description": "Rancangan pelatihan tiga hari bagi guru dan tenaga kependidikan SMA Negeri se-Sumatera Barat, lengkap dengan rencana tindak lanjut.",
+      "status": "",
+      "link": ""
+    },
+    {
+      "title": "Leadership Training Minangkabau",
+      "category": "Pelatihan",
+      "description": "Modul pelatihan kepemimpinan yang terinspirasi nilai-nilai kepemimpinan Minangkabau.",
+      "status": "",
+      "link": ""
+    },
+    {
+      "title": "Kanal YouTube “ust matematika”",
+      "category": "Media",
+      "description": "Dokumentasi kegiatan dan konten video, termasuk liputan acara keagamaan dan pembelajaran.",
+      "status": "",
+      "link": ""
+    }
+  ]
+}
